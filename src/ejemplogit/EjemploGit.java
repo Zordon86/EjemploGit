@@ -18,7 +18,6 @@ public class EjemploGit {
         // TODO code application logic here
         System.out.println("Mi primer Control de Versiones");
         System.out.println("Altero otra linea lets get on");
-        System.out.println("Esta es la tercera linea que luego borraré...");
     }
     
 }
