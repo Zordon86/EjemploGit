@@ -17,7 +17,7 @@ public class EjemploGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mi primer Control de Versiones");
-        System.out.println("Altero otra linea lets get on");
+        System.out.println("Altero otra linea");
     }
     
 }
